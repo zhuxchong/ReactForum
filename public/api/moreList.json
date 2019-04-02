@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": {
+    "artcleList": [
+      {
+        "id": 5,
+        "title": "对年轻人买房和贷款的建议",
+        "desc": "如果你是女孩子，要买房，哪怕小一点，这是你自己的后盾。如果你是刚需，能力之内，尽早买房。 如果你还没有一份足矣负担房贷的工作，请缓一缓。 首付...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/14978365-859e489959bef7ba?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 6,
+        "title": "对年轻人买房和贷款的建议",
+        "desc": "如果你是女孩子，要买房，哪怕小一点，这是你自己的后盾。如果你是刚需，能力之内，尽早买房。 如果你还没有一份足矣负担房贷的工作，请缓一缓。 首付...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/14978365-859e489959bef7ba?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ]
+  }
+}
